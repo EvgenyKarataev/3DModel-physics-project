@@ -1,7 +1,7 @@
 3DModel-physics-project
 =======================
 
-3D simulation of the electrostatic energy-analyzer of beam of charged partices
+3D simulation of the electrostatic energy-analyzer of beam of charged particles
 
 First project in Delphi with OpenGL for science project in physics class in my high school.
 
